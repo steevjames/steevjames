@@ -7,5 +7,4 @@
 - 💬 Feel free to reach out for collaborations, development works or Q&A.
 - 📫 How to reach me: You can email me at steev.james11@gmail.com or reach through by social media.
 
-
-![alt text](https://img.icons8.com/material/4ac144/256/contacts.png)
+[![](https://image.flaticon.com/icons/svg/174/174857.svg =30x)](https://www.linkedin.com/in/steevjames/)
