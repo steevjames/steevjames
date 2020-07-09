@@ -8,4 +8,4 @@
 - 📫 How to reach me: You can email me at steev.james11@gmail.com or reach through by social media.
 
 
-[![](https://image.flaticon.com/icons/svg/174/174857.svg =30x)](https://www.linkedin.com/in/steevjames/) [![](https://image.flaticon.com/icons/svg/1532/1532534.svg =30x)](https://play.google.com/store/apps/dev?id=7649130837259097103)  [![](https://image.flaticon.com/icons/svg/174/174848.svg =30x)](https://www.facebook.com/steev.james)  [![](https://image.flaticon.com/icons/svg/174/174855.svg =30x)](https://www.instagram.com/steev_james/)  [![](https://image.flaticon.com/icons/svg/174/174876.svg =30x)](https://twitter.com/_St33v) [![](https://steevjames.github.io/img/l.png =30x)](https://steevjames.github.io/) 
+[![](https://image.flaticon.com/icons/svg/174/174857.svg =30x)](https://www.linkedin.com/in/steevjames/) 
