@@ -9,6 +9,6 @@
 <a href="https://www.linkedin.com/in/steevjames/"><img src="https://img.icons8.com/color/344/linkedin.png" height="30"/></a> &nbsp; 
 <a href="https://play.google.com/store/apps/dev?id=7649130837259097103"><img src="https://img.icons8.com/fluency/2x/google-play.png" height="30"/></a> &nbsp; 
 <a href="https://www.facebook.com/steev.james"><img src="https://img.icons8.com/color/344/facebook-new.png" height="30"/></a> &nbsp; 
-<a href="https://www.instagram.com/steev_james/"><img src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" height="30"/></a> &nbsp; 
+<a href="https://www.instagram.com/steev_james/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height="30"/></a> &nbsp; 
 <a href="https://twitter.com/_St33v"><img src="https://img.icons8.com/color/2x/twitter.png" height="30"/></a> &nbsp; 
 <a href="https://steevjames.github.io/"><img src="https://steevjames.github.io/img/l.png" height="30"/></a> &nbsp; 
